@@ -8,6 +8,11 @@
           </Menu-item>
           <Menu-item name="2">
             <Icon type="ios-keypad"></Icon>导航二
+            <Icon type="ios-keypad"></Icon>导航二
+            <Icon type="ios-keypad"></Icon>导航二
+            <Icon type="ios-keypad"></Icon>导航二
+            <Icon type="ios-keypad"></Icon>导航二
+            <Icon type="ios-keypad"></Icon>导航二
           </Menu-item>
           <Menu-item name="3">
             <Icon type="ios-analytics"></Icon>导航三
@@ -100,7 +105,7 @@
             </span>
           </li>
         </ul>
-          <ul>
+        <ul>
           <li v-for="item in randomMovieList">
             <a :href="item.url" target="_blank">{{ item.name }}</a>
             <span>
@@ -111,7 +116,7 @@
             </span>
           </li>
         </ul>
-          <ul>
+        <ul>
           <li v-for="item in randomMovieList">
             <a :href="item.url" target="_blank">{{ item.name }}</a>
             <span>
