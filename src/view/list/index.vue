@@ -24,6 +24,29 @@
           <Menu-item name="3">二级导航</Menu-item>
         </div>
       </Menu>
+      <Menu mode="horizontal" theme="dark" active-name="1">
+        <div class="layout-logo"></div>
+        <div class="layout-nav">
+          <Menu-item name="1">
+            <Icon type="ios-navigate"></Icon>导航一
+          </Menu-item>
+          <Menu-item name="2">
+            <Icon type="ios-keypad"></Icon>导航二
+          </Menu-item>
+          <Menu-item name="3">
+            <Icon type="ios-analytics"></Icon>导航三
+          </Menu-item>
+          <Menu-item name="4">
+            <Icon type="ios-paper"></Icon>导航四
+          </Menu-item>
+        </div>
+      </Menu>
+      <Menu mode="horizontal" active-name="1">
+        <div class="layout-assistant">
+          <Menu-item name="1">二级导航</Menu-item>
+          <Menu-item name="3">二级导航</Menu-item>
+        </div>
+      </Menu>
       <div class="layout-content">
         <Row>
           <i-col span="5">
