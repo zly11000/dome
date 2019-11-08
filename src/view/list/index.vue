@@ -6,6 +6,12 @@
         <div class="layout-nav">
           <Menu-item name="1">
             <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
           </Menu-item>
           <Menu-item name="2">
             <Icon type="ios-keypad"></Icon>导航二
