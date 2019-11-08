@@ -1,6 +1,7 @@
 <template>
   <div class="wrap">
     <div class="layout">
+        <div class="layout"></div>
       <Menu mode="horizontal" theme="dark" active-name="1">
         <div class="layout-logo"></div>
          <div class="layout-logo"></div>
