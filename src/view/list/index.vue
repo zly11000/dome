@@ -2,8 +2,18 @@
   <div class="wrap">
     <div class="layout">
       <Menu mode="horizontal" theme="dark" active-name="1">
+<<<<<<< .merge_file_a11596
+=======
+        <div class="layout-logo"></div>
+>>>>>>> .merge_file_a17844
         <div class="layout-nav">
           <Menu-item name="1">
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
+            <Icon type="ios-navigate"></Icon>导航一
             <Icon type="ios-navigate"></Icon>导航一
           </Menu-item>
           <Menu-item name="2">
